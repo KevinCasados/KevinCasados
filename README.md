@@ -125,8 +125,7 @@ Me llamo Kevin Casados, tengo 21 años y soy un desarrollador Frontend apasionad
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KevinCasados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es
-    " 
+    src="https://github-readme-stats.vercel.app/api?username=KevinCasados&show_icons=true&theme=tokyonight&include_all_commits=true&locale=es" 
   />
 
 <img 
