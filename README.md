@@ -137,6 +137,9 @@ Me llamo Kevin Casados, tengo 21 años y soy un desarrollador Frontend apasionad
 
 </p>
 
+<br/>
+<br/>
+
 ## Proyectos
 
 1. [KINOVA-TECH](https://github.com/KevinCasados/KINOVA-TECH)  
@@ -154,17 +157,32 @@ Me llamo Kevin Casados, tengo 21 años y soy un desarrollador Frontend apasionad
 5. [Spotify-V2](https://github.com/KevinCasados/Spotify-V2)  
    - Réplica de la interfaz de Spotify, utilizando conceptos avanzados de HTML, CSS y SASS para lograr un diseño moderno y responsivo.
 
-6. [PRACTICA-REACT](https://github.com/KevinCasados/PRACTICA-REACT)  
+6. [KINOVA-AI-STARTUP-LANDING-PAGE](https://github.com/KevinCasados/KINOVA-AI-STARTUP-LANDING-PAGE)  
+   - Landing page interactiva diseñada para una startup de IA. Incluye Call To Action optimizados, elementos interactivos y diseño responsivo, desarrollado con React, TypeScript, y TailwindCSS.
+
+7. [KINOVA-TRACKING-APP-LANDING-PAGE](https://github.com/KevinCasados/KINOVA-TRACKING-APP-LANDING-PAGE)  
+   - Landing page promocional para una app de tracking. Se usaron tecnologías como React, TypeScript y TailwindCSS, con un enfoque en diseño responsivo y optimización de carga.
+
+8. [PRACTICA-REACT](https://github.com/KevinCasados/PRACTICA-REACT)  
    - Creador de listas dinámico desarrollado con React. Permite agregar y eliminar elementos en una lista mientras se gestionan eventos y estados con hooks como `useState`.
 
-7. [Practica-TypeScript](https://github.com/KevinCasados/Practica-TypeScript)  
+9. [Practica-TypeScript](https://github.com/KevinCasados/Practica-TypeScript)  
    - Proyecto enfocado en el aprendizaje de TypeScript, implementando conceptos como tipado estático, interfaces, clases y funciones genéricas.
 
-8. [LIST-FILTER-APP](https://github.com/KevinCasados/LIST-FILTER-APP)  
-   - Aplicación sencilla de React que permite filtrar elementos en una lista. Estilizado con Styled-Components y funcionalidad implementada en JavaScript.
+10. [LIST-FILTER-APP](https://github.com/KevinCasados/LIST-FILTER-APP)  
+    - Aplicación sencilla de React que permite filtrar elementos en una lista. Estilizado con Styled-Components y funcionalidad implementada en JavaScript.
 
-9. [PRACTICA-ESTILOS-REACT](https://github.com/KevinCasados/PRACTICA-ESTILOS-REACT)  
-   - Proyecto práctico para aplicar estilos en React usando diferentes tecnologías como Styled-Components, SASS y TailwindCSS.
+11. [PRACTICA-ESTILOS-REACT](https://github.com/KevinCasados/PRACTICA-ESTILOS-REACT)  
+    - Proyecto práctico para aplicar estilos en React usando diferentes tecnologías como Styled-Components, SASS y TailwindCSS.
 
-10. [Proyecto-E-Commerse](https://github.com/KevinCasados/Proyecto-E-Commerse)  
+12. [PROYECTO-CHATBOX](https://github.com/KevinCasados/PROYECTO-CHATBOX)  
+    - Proyecto sencillo que simula un ChatBox con diseño funcional. Se utilizó HTML, CSS y JavaScript para la interfaz gráfica.
+
+13. [Proyecto-E-Commerse](https://github.com/KevinCasados/Proyecto-E-Commerse)  
     - Primer modelo básico de un e-commerce, desarrollado como práctica inicial de HTML y CSS.
+
+14. [PROYECTO-E-COMMERCE](https://github.com/KevinCasados/Proyecto-E-Commerse)  
+    - Aplicación de tienda en línea simple, creada para aprender las bases de HTML y CSS, centrada en maquetado y diseño básico.
+
+15. [Spotify Clone](https://github.com/KevinCasados/Spotify-V2)  
+    - Una práctica inicial para emular la página principal de Spotify, utilizando HTML y CSS.
