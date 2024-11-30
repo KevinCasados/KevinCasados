@@ -136,3 +136,35 @@ Me llamo Kevin Casados, tengo 21 años y soy un desarrollador Frontend apasionad
   />
 
 </p>
+
+## Proyectos
+
+1. [KINOVA-TECH](https://github.com/KevinCasados/KINOVA-TECH)  
+   - Proyecto más completo hasta la fecha. Creé una aplicación de e-commerce que incluye landing page, páginas de productos, carrito de compras, favoritos y conexión a una API propia. Utilicé React, Redux, Styled-Components y JavaScript, implementando pruebas con Jest y optimizaciones de rendimiento.
+
+2. [PROYECT-MOVIE-LIBRARY](https://github.com/KevinCasados/PROYECT-MOVIE-LIBRARY)  
+   - Biblioteca de películas conectada a la API de TMDB. Incluye motor de búsqueda, vistas detalladas con información de películas, videos relacionados y recomendaciones. Desarrollado con JavaScript, Axios y diseño responsivo.
+
+3. [REDUX-ECOMMERSE-KINOVA](https://github.com/KevinCasados/REDUX-ECOMMERSE-KINOVA)  
+   - Aplicación de e-commerce desarrollada con React y Redux para la gestión de estado global. Incluye carrito de compras dinámico y páginas de productos. Utiliza CSS y TailwindCSS para el diseño.
+
+4. [PROYECTO-E-COMMERCE-V2](https://github.com/KevinCasados/PROYECTO-E-COMMERCE-V2)  
+   - Réplica de la landing page de Adidas. Incluye funcionalidades como un carrito de compras, favoritos y menú desplegable. Proyecto realizado con JavaScript y CSS.
+
+5. [Spotify-V2](https://github.com/KevinCasados/Spotify-V2)  
+   - Réplica de la interfaz de Spotify, utilizando conceptos avanzados de HTML, CSS y SASS para lograr un diseño moderno y responsivo.
+
+6. [PRACTICA-REACT](https://github.com/KevinCasados/PRACTICA-REACT)  
+   - Creador de listas dinámico desarrollado con React. Permite agregar y eliminar elementos en una lista mientras se gestionan eventos y estados con hooks como `useState`.
+
+7. [Practica-TypeScript](https://github.com/KevinCasados/Practica-TypeScript)  
+   - Proyecto enfocado en el aprendizaje de TypeScript, implementando conceptos como tipado estático, interfaces, clases y funciones genéricas.
+
+8. [LIST-FILTER-APP](https://github.com/KevinCasados/LIST-FILTER-APP)  
+   - Aplicación sencilla de React que permite filtrar elementos en una lista. Estilizado con Styled-Components y funcionalidad implementada en JavaScript.
+
+9. [PRACTICA-ESTILOS-REACT](https://github.com/KevinCasados/PRACTICA-ESTILOS-REACT)  
+   - Proyecto práctico para aplicar estilos en React usando diferentes tecnologías como Styled-Components, SASS y TailwindCSS.
+
+10. [Proyecto-E-Commerse](https://github.com/KevinCasados/Proyecto-E-Commerse)  
+    - Primer modelo básico de un e-commerce, desarrollado como práctica inicial de HTML y CSS.
