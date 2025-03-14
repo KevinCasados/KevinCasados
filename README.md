@@ -146,7 +146,8 @@ Me llamo Kevin Casados, tengo 21 años y soy un desarrollador Frontend apasionad
 ### Proyectos
 
 1. [PORTAFOLIO KINOVA](https://github.com/KevinCasados/KINOVA-TECH)  
-   - Proyecto más completo hasta la fecha. Creé una aplicación de e-commerce que incluye landing page, páginas de productos, carrito de compras, favoritos y conexión a una API propia. Utilicé React, Redux, Styled-Components y JavaScript, implementando pruebas con Jest y optimizaciones de rendimiento.
+   - Portafolio profesional que exhibe mis habilidades y proyectos como Ingeniero Frontend. Incluye una interfaz moderna, navegación intuitiva y optimización SEO.
+   - Desarrollado con React, Next.js, TypeScript y TailwindCSS.
    - Link para visualizar: https://aesthetic-bunny-c2f290.netlify.app/
 
 2. [KINOVA-TECH](https://github.com/KevinCasados/KINOVA-TECH)  
