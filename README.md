@@ -145,47 +145,56 @@ Me llamo Kevin Casados, tengo 21 años y soy un desarrollador Frontend apasionad
 
 ### Proyectos
 
-1. [KINOVA-TECH](https://github.com/KevinCasados/KINOVA-TECH)  
+1. [PORTAFOLIO KINOVA](https://github.com/KevinCasados/KINOVA-TECH)  
    - Proyecto más completo hasta la fecha. Creé una aplicación de e-commerce que incluye landing page, páginas de productos, carrito de compras, favoritos y conexión a una API propia. Utilicé React, Redux, Styled-Components y JavaScript, implementando pruebas con Jest y optimizaciones de rendimiento.
+   - Link para visualizar: https://aesthetic-bunny-c2f290.netlify.app/
 
-2. [PROYECT-MOVIE-LIBRARY](https://github.com/KevinCasados/PROYECT-MOVIE-LIBRARY)  
+2. [KINOVA-TECH](https://github.com/KevinCasados/KINOVA-TECH)  
+   - Proyecto más completo hasta la fecha. Creé una aplicación de e-commerce que incluye landing page, páginas de productos, carrito de compras, favoritos y conexión a una API propia. Utilicé React, Redux, Styled-Components y JavaScript, implementando pruebas con Jest y optimizaciones de rendimiento.
+   - Link para visualizar: https://kevincasados.github.io/KINOVA-TECH/index.html?redirect=/KINOVA-TECH/products
+
+3. [PROYECT-MOVIE-LIBRARY](https://github.com/KevinCasados/PROYECT-MOVIE-LIBRARY)  
    - Biblioteca de películas conectada a la API de TMDB. Incluye motor de búsqueda, vistas detalladas con información de películas, videos relacionados y recomendaciones. Desarrollado con JavaScript, Axios y diseño responsivo.
+   - Link para visualizar: https://reliable-taffy-611c54.netlify.app/
+  
+4. [KINOVA-AI-STARTUP-LANDING-PAGE](https://github.com/KevinCasados/KINOVA-AI-STARTUP-LANDING-PAGE)  
+   - Landing page interactiva diseñada para una startup de IA. Incluye Call To Action optimizados, elementos interactivos y diseño responsivo, desarrollado con React, TypeScript, y TailwindCSS.
+   - Link para visualizar: https://zesty-gnome-4e2c7e.netlify.app/
 
-3. [REDUX-ECOMMERSE-KINOVA](https://github.com/KevinCasados/REDUX-ECOMMERSE-KINOVA)  
+5. [KINOVA-TRACKING-APP-LANDING-PAGE](https://github.com/KevinCasados/KINOVA-TRACKING-APP-LANDING-PAGE)  
+   - Landing page promocional para una app de tracking. Se usaron tecnologías como React, TypeScript y TailwindCSS, con un enfoque en diseño responsivo y optimización de carga.
+   - Link para visualizar: https://dynamic-wisp-441a6e.netlify.app/ 
+
+6. [REDUX-ECOMMERSE-KINOVA](https://github.com/KevinCasados/REDUX-ECOMMERSE-KINOVA)  
    - Aplicación de e-commerce desarrollada con React y Redux para la gestión de estado global. Incluye carrito de compras dinámico y páginas de productos. Utiliza CSS y TailwindCSS para el diseño.
 
-4. [PROYECTO-E-COMMERCE-V2](https://github.com/KevinCasados/PROYECTO-E-COMMERCE-V2)  
+7. [PROYECTO-E-COMMERCE-V2](https://github.com/KevinCasados/PROYECTO-E-COMMERCE-V2)  
    - Réplica de la landing page de Adidas. Incluye funcionalidades como un carrito de compras, favoritos y menú desplegable. Proyecto realizado con JavaScript y CSS.
+   - Link para visualizar: https://reliable-taffy-611c54.netlify.app/ 
 
-5. [Spotify-V2](https://github.com/KevinCasados/Spotify-V2)  
+8. [Spotify-V2](https://github.com/KevinCasados/Spotify-V2)  
    - Réplica de la interfaz de Spotify, utilizando conceptos avanzados de HTML, CSS y SASS para lograr un diseño moderno y responsivo.
 
-6. [KINOVA-AI-STARTUP-LANDING-PAGE](https://github.com/KevinCasados/KINOVA-AI-STARTUP-LANDING-PAGE)  
-   - Landing page interactiva diseñada para una startup de IA. Incluye Call To Action optimizados, elementos interactivos y diseño responsivo, desarrollado con React, TypeScript, y TailwindCSS.
-
-7. [KINOVA-TRACKING-APP-LANDING-PAGE](https://github.com/KevinCasados/KINOVA-TRACKING-APP-LANDING-PAGE)  
-   - Landing page promocional para una app de tracking. Se usaron tecnologías como React, TypeScript y TailwindCSS, con un enfoque en diseño responsivo y optimización de carga.
-
-8. [PRACTICA-REACT](https://github.com/KevinCasados/PRACTICA-REACT)  
+9. [PRACTICA-REACT](https://github.com/KevinCasados/PRACTICA-REACT)  
    - Creador de listas dinámico desarrollado con React. Permite agregar y eliminar elementos en una lista mientras se gestionan eventos y estados con hooks como `useState`.
 
-9. [Practica-TypeScript](https://github.com/KevinCasados/Practica-TypeScript)  
+10. [Practica-TypeScript](https://github.com/KevinCasados/Practica-TypeScript)  
    - Proyecto enfocado en el aprendizaje de TypeScript, implementando conceptos como tipado estático, interfaces, clases y funciones genéricas.
 
-10. [LIST-FILTER-APP](https://github.com/KevinCasados/LIST-FILTER-APP)  
+11. [LIST-FILTER-APP](https://github.com/KevinCasados/LIST-FILTER-APP)  
     - Aplicación sencilla de React que permite filtrar elementos en una lista. Estilizado con Styled-Components y funcionalidad implementada en JavaScript.
 
-11. [PRACTICA-ESTILOS-REACT](https://github.com/KevinCasados/PRACTICA-ESTILOS-REACT)  
+12. [PRACTICA-ESTILOS-REACT](https://github.com/KevinCasados/PRACTICA-ESTILOS-REACT)  
     - Proyecto práctico para aplicar estilos en React usando diferentes tecnologías como Styled-Components, SASS y TailwindCSS.
 
-12. [PROYECTO-CHATBOX](https://github.com/KevinCasados/PROYECTO-CHATBOX)  
+13. [PROYECTO-CHATBOX](https://github.com/KevinCasados/PROYECTO-CHATBOX)  
     - Proyecto sencillo que simula un ChatBox con diseño funcional. Se utilizó HTML, CSS y JavaScript para la interfaz gráfica.
 
-13. [Proyecto-E-Commerse](https://github.com/KevinCasados/Proyecto-E-Commerse)  
+14. [Proyecto-E-Commerse](https://github.com/KevinCasados/Proyecto-E-Commerse)  
     - Primer modelo básico de un e-commerce, desarrollado como práctica inicial de HTML y CSS.
 
-14. [PROYECTO-E-COMMERCE](https://github.com/KevinCasados/Proyecto-E-Commerse)  
+15. [PROYECTO-E-COMMERCE](https://github.com/KevinCasados/Proyecto-E-Commerse)  
     - Aplicación de tienda en línea simple, creada para aprender las bases de HTML y CSS, centrada en maquetado y diseño básico.
 
-15. [Spotify Clone](https://github.com/KevinCasados/Spotify-V2)  
+16. [Spotify Clone](https://github.com/KevinCasados/Spotify-V2)  
     - Una práctica inicial para emular la página principal de Spotify, utilizando HTML y CSS.
